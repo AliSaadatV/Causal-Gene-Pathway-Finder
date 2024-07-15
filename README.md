@@ -1,1 +1,1 @@
-# Causal-Gene-Pathway-Finder
+## GitHub repository for the paper "DNA Language Model and Interpretable Graph Neural Network Identify Genes and Pathways Involved in Rare Diseases", which was accepted in the ACL 2024 (Language + Molecules workshop). The full paper can be accessed [here](https://openreview.net/pdf?id=JzaaBPMEJP).
